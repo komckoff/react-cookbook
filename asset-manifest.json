@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-cookbook/static/css/main.869c3156.css",
-    "main.js": "/react-cookbook/static/js/main.db464244.js",
+    "main.js": "/react-cookbook/static/js/main.9c048b2f.js",
     "index.html": "/react-cookbook/index.html",
     "main.869c3156.css.map": "/react-cookbook/static/css/main.869c3156.css.map",
-    "main.db464244.js.map": "/react-cookbook/static/js/main.db464244.js.map"
+    "main.9c048b2f.js.map": "/react-cookbook/static/js/main.9c048b2f.js.map"
   },
   "entrypoints": [
     "static/css/main.869c3156.css",
-    "static/js/main.db464244.js"
+    "static/js/main.9c048b2f.js"
   ]
 }
